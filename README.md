@@ -37,6 +37,13 @@
 
 <hr/>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlaviusStefan&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviusStefan)](https://github.com/FlaviusStefan/github-readme-stats)
+
+
+
 <br/>
 
 <br/>
