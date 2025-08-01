@@ -4,15 +4,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Flavius!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Romania</h3>
+<h3 align="center">A passionate Software Engineer from Romania</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a hospital management system**
+ 🌱 I’m currently working at **Groupe Société Générale** as a **Software Engineer Intern** using **.NET and Angular**
+
+ 🔭 Job: I’m currently working on **a hospital management system**
  
- 🌱 I’m currently learning **.NET and Angular**
 
  </div>
  
