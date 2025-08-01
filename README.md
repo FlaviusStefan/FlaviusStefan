@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🌱 I’m currently working at **Groupe Société Générale** as a **Software Engineer Intern** using **.NET and Angular**
+ 🌱 Job: I’m currently working at **Groupe Société Générale** as a **Software Engineer Intern** using **.NET and Angular**
 
- 🔭 Job: I’m currently working on **a hospital management system**
+ 🔭 Free-time: I’m currently working on **a hospital management system**
  
 
  </div>
