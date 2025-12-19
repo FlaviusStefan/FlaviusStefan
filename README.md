@@ -31,7 +31,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=net,cs,py,angular,typescript,nodejs,mongodb,postgres,git" />
+    <img src="https://skillicons.dev/icons?i=net,cs,py,angular,typescript,nodejs,mongodb,postgres,git,azure,docker,k8s" />
 </div>
 
 <br/>
