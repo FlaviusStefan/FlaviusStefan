@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 Job: I’m currently working at **Weidmüller** as a **Software Engineer Intern** using **C#/.NET Core, Angular, PostgreSQL, Azure, Docker & Kubernetes**
+ 🌱 Job: I previously worked at **BRD - Societe Generale** as a **Software Engineer Intern** using **C#/.NET Core, Angular, PostgreSQL, Azure, Docker & Kubernetes**
 
  🔭 Free-time: I’m currently working on **a hospital management system**
  
